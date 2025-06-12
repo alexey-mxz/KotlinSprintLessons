@@ -2,7 +2,7 @@ package org.example
 
 fun main() {
 
-    val numberOfOrders: Int = 75
+    var numberOfOrders: Int = 75
     val thanksForYourPurchase: String = "Thanks for your purchase"
 
     println(numberOfOrders)
